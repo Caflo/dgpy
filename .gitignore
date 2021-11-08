@@ -1,0 +1,4 @@
+README.html
+*.vscode
+**/.ipynb_checkpoints
+*setup.py
